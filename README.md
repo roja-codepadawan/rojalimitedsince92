@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @rojalimitedsince92
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @roja
+- 🌱 I’m currently learning ->Python, Swift, HTML, CSS, Javascript
 - 📫 How to reach me ...
 
 <!---
